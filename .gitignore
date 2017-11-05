@@ -1,4 +1,9 @@
+__pycache__
+*.npz
+*.hdf5
 .DS_Store
+submission
+*.zip
 dogImages/
 lfw/
 saved_models/weights.best.from_scratch.hdf5
